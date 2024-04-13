@@ -1,0 +1,129 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.img{
+    background-image: url(https://freshcart.codescandy.com/assets/images/slider/slider-2.jpg);
+    background-size: cover;
+    background-position:;
+}
+.sc::-webkit-scrollbar{
+    display: none;
+}
+.img-2{
+    background-image: url(https://freshcart.codescandy.com/assets/images/slider/slide-1.jpg);
+    background-size: cover;
+}
+
+.img-3{
+    background-image: url(https://freshcart.codescandy.com/assets/images/banner/grocery-banner.png);
+    background-size: cover;
+    background-repeat: center;
+    background-repeat: no-repeat;
+}
+
+.img-4{
+    background-image: url(https://freshcart.codescandy.com/assets/images/banner/grocery-banner-2.jpg);
+   background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.img-5{
+    background-image: url(https://freshcart.codescandy.com/assets/images/banner/banner-deal.jpg);
+    background-size: cover;
+}
+
+.img-6{
+    background-image: url(https://freshcart.codescandy.com/assets/images/banner/ad-banner-1.jpg);
+    background-size: contain;
+    background-position: center;
+}
+
+.img-7{
+    background-image: url(https://freshcart.codescandy.com/assets/images/banner/ad-banner-2.jpg);
+    background-size: contain;
+    background-position: center;
+}
+
+.img-8{
+    background-image: url(https://freshcart.codescandy.com/assets/images/banner/ad-banner-3.jpg);
+    background-size: contain;
+   
+   
+}
+
+.img-9{
+    background-image: url(https://freshcart.codescandy.com/assets/images/slider/slider-image-2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.img-10{
+    background-image: url(https://freshcart.codescandy.com/assets/images/slider/slider-image-1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.img-11{
+    background-image: url(https://freshcart.codescandy.com/assets/images/slider/slider-image-3.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.img-12{
+    background-image: url(https://freshcart.codescandy.com/assets/images/banner/ad-banner-1.jpg);
+    background-size: contain;
+    background-position: center;
+}
+
+.img-13{
+    background-image: url(https://freshcart.codescandy.com/assets/images/banner/ad-banner-2.jpg);
+    background-size: contain;
+    background-position: center;
+}
+
+.img-14{
+    background-image: url(https://freshcart.codescandy.com/assets/images/banner/banner-4.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.img-15{
+    background-image: url(https://freshcart.codescandy.com/assets/images/banner/ad-banner-4.jpg);
+    background-size: cover;
+    background-position: center;
+   
+}
+
+.img-16{
+    background-image: url(https://freshcart.codescandy.com/assets/images/banner/ad-banner-5.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.img-17{
+    background-image: url(https://freshcart.codescandy.com/assets/images/banner/ad-banner-6.jpg);
+    background-size: cover;
+    background-position: center;
+   
+}
+
+.img-18{
+    background-image: url(https://freshcart.codescandy.com/assets/images/slider/hero-img-slider-1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.img-19{
+    background-image: url(https://freshcart.codescandy.com/assets/images/slider/hero-img-slider-2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.img-20{
+    background-image: url(https://freshcart.codescandy.com/assets/images/slider/hero-img-slider-3.jpg);
+    background-size: cover;
+    background-position: center;
+}
